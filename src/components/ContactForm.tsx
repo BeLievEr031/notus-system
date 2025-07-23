@@ -217,7 +217,7 @@ function ContactInfo() {
                     href="mailto:founders@notussystems.com"
                     className="text-white hover:text-gray-300 transition-colors"
                 >
-                    founders@notussystems.com
+                    founders@notussystems.pro
                 </a>
             </div>
         </div>
